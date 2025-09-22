@@ -122,7 +122,7 @@ Training tracks MSE loss on both training and validation datasets. Weight initia
 
 <div align="center">
 
-#### 🔹 *Training and validation loss curves over epochs*
+#### 🔹 *Mean test loss for each digit (0–9)*
 <img src="Images/6.png" alt="" width="65%"/>
 
 </div> 
