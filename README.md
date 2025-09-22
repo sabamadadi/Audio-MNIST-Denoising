@@ -86,7 +86,6 @@ A **U-Net autoencoder** is employed [1]:
 
 </div>
 
-**Figure 4:** 
 
 ---
 
@@ -128,7 +127,7 @@ Training tracks MSE loss on both training and validation datasets. Weight initia
 
 </div> 
 
-**Figure 6:** Mean test loss for each digit (0–9)  
+ 
 
 - Best performance for digits <5 (minimum loss: digit 4)
 - Higher error for digits 5 and 9
